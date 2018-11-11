@@ -1,2 +1,2 @@
-# CN
-Contains programs and computer network practical examinations for computer engineering (university of mumbai)
+# Computer_Network_Algorithms
+This repository contains implementations of popular Computer Network Algorithms.
